@@ -1,11 +1,13 @@
 **Welcome to My GitHub Profile**
 
 About Me
+
 Hello! I’m Gopika.S, a dedicated data science professional with a passion for harnessing the power of data to drive meaningful insights and innovation. Currently, I am excited to embark on a Data Science internship at InternPedia, where I am applying my skills to real-world data challenges and advanced analytics.
 
 **InternPedia Internship****
 
 **Overview**
+
 I am thrilled to announce my Data Science internship at InternPedia! 🚀 This role provides me with the opportunity to immerse myself in:
 
 Advanced Data Analysis: Leveraging statistical techniques and exploratory data analysis to extract actionable insights from complex datasets.
@@ -29,11 +31,12 @@ Explore my repositories to see a selection of projects that showcase my proficie
 
 **Unemployment Rate Analysis:** Analyzing unemployment trends and patterns over time to uncover insights and trends.
 
-**Credit Card Fraud Detection: **Developing models to detect fraudulent credit card transactions and enhance financial security.
+**Credit Card Fraud Detection:** Developing models to detect fraudulent credit card transactions and enhance financial security.
 
 **Email Spam Detection:** Creating algorithms to identify and filter spam emails, improving email security and user experience.
 
 **Connect with Me**
+
 I am always eager to connect with fellow data science professionals, researchers, and anyone interested in data-driven innovation. Let’s collaborate and discuss the future of data science!
 
 LinkedIn: www.linkedin.com/in/gopika-s-2501b0244
