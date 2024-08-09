@@ -20,13 +20,14 @@ Data Visualization: Matplotlib, Seaborn, Tableau.
 Databases: SQL, NoSQL.
 
 **Projects**
+
 Explore my repositories to see a selection of projects that showcase my proficiency in data science and machine learning. Each project demonstrates my ability to analyze data, develop models, and deliver strategic insights.
 
-Titanic Survival Prediction: Building a model to predict passenger survival rates using historical data.
-Iris Species Classification: Implementing machine learning algorithms to classify iris species based on the Iris dataset.
-Unemployment Rate Analysis: Analyzing unemployment trends and patterns over time to uncover insights and trends.
-Credit Card Fraud Detection: Developing models to detect fraudulent credit card transactions and enhance financial security.
-Email Spam Detection: Creating algorithms to identify and filter spam emails, improving email security and user experience.
+**Titanic Survival Prediction:** Building a model to predict passenger survival rates using historical data.
+**Iris Species Classification:** Implementing machine learning algorithms to classify iris species based on the Iris dataset.
+**Unemployment Rate Analysis:** Analyzing unemployment trends and patterns over time to uncover insights and trends.
+**Credit Card Fraud Detection: **Developing models to detect fraudulent credit card transactions and enhance financial security.
+**Email Spam Detection:** Creating algorithms to identify and filter spam emails, improving email security and user experience.
 
 **Connect with Me**
 I am always eager to connect with fellow data science professionals, researchers, and anyone interested in data-driven innovation. Let’s collaborate and discuss the future of data science!
