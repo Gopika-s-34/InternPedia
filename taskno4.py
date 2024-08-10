@@ -31,7 +31,7 @@ print(X.shape)
 print(Y.shape)
 xData = X.values
 yData = Y.values
-from sklearn.model_selection import train_test_spli
+from sklearn.model_selection import train_test_split
 xTrain, xTest, yTrain, yTest = train_test_split(xData, yData, test_size = 0.2, random_state = 42)
 from sklearn.ensemble import RandomForestClassifier
 rfc = RandomForestClassifier()
