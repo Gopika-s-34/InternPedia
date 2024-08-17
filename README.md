@@ -1,10 +1,10 @@
-**Welcome to My GitHub Profile**
+# Welcome to My GitHub Profile
 
-About Me
+**About Me**
 
 Hello! I’m Gopika.S, a dedicated data science professional with a passion for harnessing the power of data to drive meaningful insights and innovation. Currently, I am excited to embark on a Data Science internship at InternPedia, where I am applying my skills to real-world data challenges and advanced analytics.
 
-**InternPedia Internship****
+# InternPedia Internship
 
 **Overview**
 
